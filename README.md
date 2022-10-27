@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Ashin-paul
+- 👋 Hi, I’m Ashin-paul
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning MCA
 - 📫 u can reach me through my mail,ashinpaul46@gmail.com
+- 📫 I'm ready to help
 
 <!---
 Ashin-paul/Ashin-paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
