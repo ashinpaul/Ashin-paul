@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashin Paul P A</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<p><img align="center" src="gif.gif" alt="ashinpaul" /></p>
+<p align="center"><img align="center" src="gif.gif" alt="ashinpaul" /></p>
 - 🌱 I’m currently learning **Master of Computer Application**
 
 - 👨‍💻 All of my projects are available at [https://ashin-paul.github.io/portfolio.github.io/](https://ashin-paul.github.io/portfolio.github.io/)
