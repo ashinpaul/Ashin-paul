@@ -6,7 +6,7 @@
 <p align="center">
 ▷ All of my projects are available here <a href="https://ashinpaul.github.io/portfolio.github.io/">⭐</a></p>
 <p align="center">
-▷ Click to reach me <a href="ashinpaul46@gmail.com">📫</a>
+▷ Click to reach me <a href="www.ashinpaul46@gmail.com">📫</a>
 </p>
 <h3 align="center">Connect with me:</h3>
 
