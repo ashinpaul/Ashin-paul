@@ -4,7 +4,7 @@
 <p align="center">
 ▷ I’m currently learning Master of Computer Application</p>
 <p align="center">
-▷ All of my projects are available here <a href="[https://ashin-paul.github.io/portfolio.github.io/](https://ashin-paul.github.io/portfolio.github.io/)](https://ashinpaul.github.io/portfolio.github.io/)">⭐</a></p>
+▷ All of my projects are available here <a href="https://ashinpaul.github.io/portfolio.github.io/">⭐</a></p>
 <p align="center">
 ▷ Click to reach me <a href="ashinpaul46@gmail.com">📫</a>
 </p>
