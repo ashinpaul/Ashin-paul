@@ -7,8 +7,8 @@
   <row><coloumn>
 ▷ All of my projects are available here <a href="https://ashinpaul.github.io/portfolio.github.io/">⭐</a></p></coloumn>
     <p align="center">
-    <coloumn></coloumn>
-▷ Click to reach me <a href="ashinpaul46@gmail.com">📫</a>
+    <coloumn>
+▷ Click to reach me <a href="ashinpaul46@gmail.com">📫</a></coloumn>
 </p>
 <h3 align="center">Connect with me:</h3>
 
