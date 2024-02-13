@@ -4,11 +4,11 @@
 <p align="center">
 ▷ I’m currently learning Master of Computer Application</p>
 <p align="center">
-  <row><coloumn>
-▷ All of my projects are available here <a href="https://ashinpaul.github.io/portfolio.github.io/">⭐</a></p></coloumn>
+
+▷ All of my projects are available here <a href="https://ashinpaul.github.io/portfolio.github.io/">⭐</a></p>
     <p align="center">
-    <coloumn>
-▷ Click to reach me <a href="ashinpaul46@gmail.com">📫</a></coloumn>
+
+▷ Click to reach me <a href="ashinpaul46@gmail.com">📫</a>
 </p>
 <h3 align="center">Connect with me:</h3>
 
